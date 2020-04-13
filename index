@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/CSS/flexboxgrid.min.css">
+    <link rel="stylesheet" href="/CSS/style.css">
+    <script src="https://kit.fontawesome.com/345ed9338d.js" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" href="####" type="image/x-icon">
+    <title>Black Cat</title>
+</head>
+<body>
+    <div class="container">
+        <div class="row center-xs">
+            <div class="col-xs-12">
+                <div class="header">
+                    <h1><img src="/IMAGENES/logo1.png" alt=""><a href="index.html">Black Cat</a></h1>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="socialicons">
+                    <a href="https://www.instagram.com/somosblackcat"><i class="fab fa-instagram"></i></a>
+                    <a href=""><i class="fab fa-facebook-f"></i></a>
+                    <a href=""><i class="fab fa-twitter"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-2">
+                <div class="trigger">
+                    <i class="fas fa-bars"></i>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12">
+                <nav class="full-screen-nav">
+                    <div class="backdrop"></div>
+                    <ul>
+                        <li>
+                            <a href="#"><i class="fas fa-home"></i>  Inicio</a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fas fa-book-open"></i>  Menu</a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fas fa-cat"></i>  Nosotros</a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fas fa-users"></i>  Comunidad</a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fas fa-map-marker-alt"></i>  Contactanos</a>
+                        </li>
+                    </ul>
+                </nav>
+
+            </div>
+        </div>
+        <div class="row center-xs">
+            <div class="col-xs-12">
+                <div class="contenido1">
+                    <div class="row ">
+                        <div class="col-xs">
+                            <div class="card">
+                                <div class="image-card">
+                                    <img src="/IMAGENES/la_bombay.jpg" alt="burguer.1">
+                                </div>
+                                <div class="name-card">
+                                    <h2>LA BOMBAY</h2>
+                                </div>
+                                <div class="description-card">
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veniam officiis perspiciatis
+                                        dicta,
+                                        accusamus aliquam necessitatibus repellendus facilis incidunt.
+                                        Maiores explicabo nostrum neque ad nesciunt rerum dolorum ipsa sint accusantium.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row ">
+                        <div class="col-xs">
+                            <div class="card">
+                                <div class="image-card">
+                                    <img src="/IMAGENES/el_burmes.jpg" alt="burguer.1">
+                                </div>
+                                <div class="name-card">
+                                    <h2>EL BURMES</h2>
+                                </div>
+                                <div class="description-card">
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veniam officiis perspiciatis
+                                        dicta,
+                                        accusamus aliquam necessitatibus repellendus facilis incidunt.
+                                        Maiores explicabo nostrum neque ad nesciunt rerum dolorum ipsa sint accusantium.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row ">
+                        <div class="col-xs">
+                            <div class="card">
+                                <div class="image-card">
+                                    <img src="/IMAGENES/fat_cat.jpg" alt="burguer.1">
+                                </div>
+                                <div class="name-card">
+                                    <h2>FAT CAT</h2>
+                                </div>
+                                <div class="description-card">
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veniam officiis perspiciatis
+                                        dicta,
+                                        accusamus aliquam necessitatibus repellendus facilis incidunt.
+                                        Maiores explicabo nostrum neque ad nesciunt rerum dolorum ipsa sint accusantium.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row ">
+                        <div class="col-xs">
+                            <div class="card">
+                                <div class="image-card">
+                                    <img src="/IMAGENES/pixie_bob.jpg" alt="burguer.1">
+                                </div>
+                                <div class="name-card">
+                                    <h2>PIXIE BOB</h2>
+                                </div>
+                                <div class="description-card">
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veniam officiis perspiciatis
+                                        dicta,
+                                        accusamus aliquam necessitatibus repellendus facilis incidunt.
+                                        Maiores explicabo nostrum neque ad nesciunt rerum dolorum ipsa sint accusantium.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row ">
+                        <div class="col-xs">
+                            <div class="card">
+                                <div class="image-card">
+                                    <img src="/IMAGENES/veggie1.jpg" alt="burguer.1">
+                                </div>
+                                <div class="name-card">
+                                    <h2>LA ORIENTAL</h2>
+                                </div>
+                                <div class="description-card">
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veniam officiis perspiciatis
+                                        dicta,
+                                        accusamus aliquam necessitatibus repellendus facilis incidunt.
+                                        Maiores explicabo nostrum neque ad nesciunt rerum dolorum ipsa sint accusantium.</p>
+                                    <div class="veggie">
+                                        <i class="fas fa-carrot"></i>
+                                        <span>Meat Free</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="footer">
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="/JS/crax.js"></script>
+</body>
+</html>
